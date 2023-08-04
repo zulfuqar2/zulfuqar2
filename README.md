@@ -1,6 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently learning<br>👯 I’m looking to collaborate <br>💬 Ask me about<br>⚡ Fun fact
-
+🖥️ I’m currently looking for a new job opportunity
+🧠 I’m currently learning more about the Node.js framework
+✉ You can reach me at zulfuqarseyful@gmail.com
+⚡ Fun fact: I love cats🐱 & science news
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/zulfuqar.seyfullali.9/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zulfuqar-seyfullali/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/SEYFULLALLI) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/zulfuqar2) 
