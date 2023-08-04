@@ -1,7 +1,7 @@
 # 💫 About Me:
 🖥️ I’m currently looking for a new job opportunity
 <br>
-🧠 I’m currently learning more about the Node.js framework
+🧠 I’m currently learning more about the Node.js 
 <br>
 ✉ You can reach me at zulfuqarseyful@gmail.com
 <br>
