@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ I’m currently looking for a new job opportunity<br>🧠 I’m currently learning more about the Node.js,TypeScript,Tailkwind<br>✉ You can reach me at zulfuqarseyful@gmail.com<br>⚡ Fun fact: I love cats🐱 & science news
+🖥️ I’m currently looking for a new job opportunity<br>🧠 I’m currently learning more about  Node.js,TypeScript,Tailwind<br>✉ You can reach me at zulfuqarseyful@gmail.com<br>⚡ Fun fact: I love cats🐱 & science news
 
 
 ## 🌐 Socials:
